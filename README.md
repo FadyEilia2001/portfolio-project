@@ -42,7 +42,9 @@ A single-page developer portfolio with smooth scrolling, mobile navigation, and 
 │   ├── devjane.png
 │   ├── dev-jane-01.jpg
 │   ├── dev-jane-02.jpg
-│   └── portfolio-01.jpg … portfolio-10.jpg
+│   ├── portfolio-01.jpg
+│   ├── portfolio-02.jpg
+│   └── ... (portfolio-03.jpg to portfolio-10.jpg)
 └── favicon.ico
 
 ---
