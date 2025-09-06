@@ -8,7 +8,7 @@ A single-page developer portfolio with smooth scrolling, mobile navigation, and 
 
 ## Demo
 
-- **Live:** [GitHub Pages Link]([https://your-username.github.io/your-repo/](https://fadyeilia2001.github.io/portfolio-project/))  
+- **Live:** [GitHub Pages Link]([https://your-username.github.io/your-repo/](https://fadyeilia2001.github.io/portfolio-project/)  
 ---
 
 ## Features
